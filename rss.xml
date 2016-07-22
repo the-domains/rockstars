@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Rockstars]]></title>
         <description><![CDATA[Rockstars]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rockstars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 08:03:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 08:13:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rockstars/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inside The Fastest-Growing Accelerator for Women And Minorities]]></title>
+            <description><![CDATA[<article><h1>Inside The Fastest-Growing Accelerator for Women And Minorities</h1><p>Most accelerators require entrepreneurs to spend three to six months in residence, which can be difficult for women entrepreneurs, particularly if they have families. So, in 2015, serial entrepreneur and former investment banker Carolyn Rodz founded Circular Board, a virtual 90-day accelerator for women entrepreneurs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a498ab8c9e3508c29bd93f1e5a54a65f/noop.jpg?input=http%3A%2F%2Fd.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2F620x350%2Fposter%2F2016%2F07%2F3061996-poster-p-1-inside-the-fastest-growing-accelerator-for-women-and-minorities.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3061996/the-future-of-work/inside-the-fastest-growing-accelerator-for-women-and-minorities</link>
+            <guid isPermaLink="false">4c3ccc8a-7365-4104-97f6-7747e0c34950</guid>
+            <pubDate>Fri, 22 Jul 2016 08:13:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Future of Jobs.]]></title>
             <description><![CDATA[<article><h1>The Future of Jobs.</h1><h2>Employment, Skills and Workforce Strategy for the Fourth Industrial Revolution</h2><p>World Economic Forum, January 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png"></article>]]></description>
