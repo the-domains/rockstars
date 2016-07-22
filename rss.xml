@@ -4,8 +4,15 @@
         <description><![CDATA[Rockstars]]></description>
         <link>https://thegrid.ai/rockstars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 08:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 08:39:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rockstars/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future of Jobs.]]></title>
+            <description><![CDATA[<article><h1>The Future of Jobs.</h1><h2>Employment, Skills and Workforce Strategy for the Fourth Industrial Revolution</h2><p>World Economic Forum, January 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png</link>
+            <guid isPermaLink="false">77b24fb4-f8d5-47e3-878b-702daa18299d</guid>
+            <pubDate>Fri, 22 Jul 2016 08:39:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What I've Learned By Hiring More Employees With Disabilities]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff4c6837-9343-403d-b117-d2f6380a1526.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>http://www.fastcompany.com/3061996/the-future-of-work/inside-the-fastest-growing-accelerator-for-women-and-minorities</link>
             <guid isPermaLink="false">4c3ccc8a-7365-4104-97f6-7747e0c34950</guid>
             <pubDate>Fri, 22 Jul 2016 08:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Future of Jobs.]]></title>
-            <description><![CDATA[<article><h1>The Future of Jobs.</h1><h2>Employment, Skills and Workforce Strategy for the Fourth Industrial Revolution</h2><p>World Economic Forum, January 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png</link>
-            <guid isPermaLink="false">77b24fb4-f8d5-47e3-878b-702daa18299d</guid>
-            <pubDate>Fri, 22 Jul 2016 08:03:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
