@@ -1,14 +1,14 @@
-layout_spectrum: 0.23856771481223404
-typography_spectrum: 0.2108699178788811
+layout_spectrum: 0.654444458661601
+typography_spectrum: 0.6250303410924971
 color:
-  brandStrength: 0.8931800457648933
-  lightness: 0.9711178953293711
-  saturation: 0.45120186917483807
-  rhythmicContrast: 0.1711883726529777
+  brandStrength: 0.2051664679311216
+  lightness: 0.10613777185790241
+  saturation: 0.4880044504534453
+  rhythmicContrast: 0.5129307401366532
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 name: Rockstars
