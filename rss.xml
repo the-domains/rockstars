@@ -4,7 +4,7 @@
         <description><![CDATA[Rockstars]]></description>
         <link>https://thegrid.ai/rockstars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 10:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 10:33:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rockstars/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Future of Jobs.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png</link>
             <guid isPermaLink="false">77b24fb4-f8d5-47e3-878b-702daa18299d</guid>
             <pubDate>Fri, 22 Jul 2016 09:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise of augmented intelligence]]></title>
+            <description><![CDATA[<article><h1>The rise of augmented intelligence</h1><p>There's no denying the hype surrounding artificial intelligence or AI. Most weeks will feature a media story questioning whether machines are set to take over the world and give rise to another industrial revolution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0d3cb7356bce6b982b6d7488a4e132e0/noop.jpg?input=http%3A%2F%2Fraconteur.net%2Fadmin%2F..%2Fpublic%2Fimg%2Farticles%2F2015%2F12%2Fimage-for-ad2-360x203.jpg"></article>]]></description>
+            <link>http://raconteur.net/technology/the-rise-of-augmented-intelligence</link>
+            <guid isPermaLink="false">7f073149-adbf-441a-8eb6-77f04e72bd6a</guid>
+            <pubDate>Fri, 22 Jul 2016 10:33:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I, Robot: Organizational Design, Artificial Intelligence and Your Workplace]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.fastcompany.com/3061996/the-future-of-work/inside-the-fastest-growing-accelerator-for-women-and-minorities</link>
             <guid isPermaLink="false">4c3ccc8a-7365-4104-97f6-7747e0c34950</guid>
             <pubDate>Fri, 22 Jul 2016 08:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I've Learned By Hiring More Employees With Disabilities]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff4c6837-9343-403d-b117-d2f6380a1526.jpg">]]></description>
-            <link>http://www.fastcompany.com/3061925/lessons-learned/what-ive-learned-by-hiring-more-employees-with-disabilities</link>
-            <guid isPermaLink="false">150449fd-1774-4b2c-bcd3-96c77ca98bdb</guid>
-            <pubDate>Fri, 22 Jul 2016 08:26:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
