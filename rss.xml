@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rockstars]]></title>
+        <description><![CDATA[Rockstars]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jul 2016 08:03:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future of Jobs.]]></title>
+            <description><![CDATA[<article><h1>The Future of Jobs.</h1><h2>Employment, Skills and Workforce Strategy for the Fourth Industrial Revolution</h2><p>World Economic Forum, January 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png</link>
+            <guid isPermaLink="false">77b24fb4-f8d5-47e3-878b-702daa18299d</guid>
+            <pubDate>Fri, 22 Jul 2016 08:03:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
