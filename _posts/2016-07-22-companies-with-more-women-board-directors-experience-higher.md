@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.catalyst.org'
-  name: Catalyst
-  favicon: 'http://www.catalyst.org/sites/all/themes/catalyst/favicon.ico'
-  domain: www.catalyst.org
+datePublished: '2016-07-22T10:35:18.535Z'
+sourcePath: >-
+  _posts/2016-07-22-companies-with-more-women-board-directors-experience-higher.md
+isBasedOnUrl: >-
+  http://www.catalyst.org/media/companies-more-women-board-directors-experience-higher-financial-performance-according-latest
 keywords:
   - catalyst
   - women
@@ -17,6 +15,19 @@ keywords:
   - corporations
   - financial
   - percentages
+related: []
+author: []
+via: {}
+dateModified: '2016-07-22T10:35:17.419Z'
+title: >-
+  Companies With More Women Board Directors Experience Higher Financial
+  Performance, According to Latest Catalyst Bottom Line Report
+app_links: []
+publisher:
+  url: 'http://www.catalyst.org'
+  name: Catalyst
+  favicon: 'http://www.catalyst.org/sites/all/themes/catalyst/favicon.ico'
+  domain: www.catalyst.org
 description: >-
   Fortune 500 companies with the highest representation of women board directors
   attained significantly higher financial performance, on average, than those
@@ -24,18 +35,7 @@ description: >-
   Catalyst's most recent report, The Bottom Line: Corporate Performance and
   Women's Representation on Boards.
 inLanguage: en
-app_links: []
-isBasedOnUrl: >-
-  http://www.catalyst.org/media/companies-more-women-board-directors-experience-higher-financial-performance-according-latest
-title: >-
-  Companies With More Women Board Directors Experience Higher Financial
-  Performance, According to Latest Catalyst Bottom Line Report
-datePublished: '2016-07-22T09:45:33.177Z'
-dateModified: '2016-07-22T09:42:51.911Z'
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-companies-with-more-women-board-directors-experience-higher.md
 inFeed: true
 hasPage: false
 inNav: false
