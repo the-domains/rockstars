@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-22T10:00:12.329Z'
+datePublished: '2016-07-22T10:04:15.715Z'
+sourcePath: _posts/2016-07-22-what-is-leadership.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=pYKH2uSax8U'
 keywords: []
 related: []
@@ -8,17 +9,18 @@ author:
     url: 'https://www.youtube.com/channel/UCM6PvFiH_weNCMCnFynTNdg'
     avatar: {}
 via: {}
-dateModified: '2016-07-22T09:59:49.861Z'
-title: What is leadership?
+dateModified: '2016-07-22T10:04:14.768Z'
+title: Returning authority to people
 app_links: []
 publisher:
   url: 'https://www.youtube.com/'
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
-description: Giving people control is the best way to lead.
+description: >-
+  Giving people control is the best way to lead. Setting an environment where
+  they can think for themselves, you are backing their every decision. 
 starred: false
-sourcePath: _posts/2016-07-22-what-is-leadership.md
 inFeed: true
 hasPage: false
 inNav: false
