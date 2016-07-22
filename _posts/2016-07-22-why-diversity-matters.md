@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T08:46:15.584Z'
+datePublished: '2016-07-22T09:31:39.089Z'
 sourcePath: _posts/2016-07-22-why-diversity-matters.md
 isBasedOnUrl: >-
   http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters
@@ -29,7 +29,7 @@ related:
     thumbnail_width: 1200
 author: []
 via: {}
-dateModified: '2016-07-22T08:46:14.618Z'
+dateModified: '2016-07-22T09:31:37.818Z'
 title: Why diversity matters
 app_links: []
 publisher:
@@ -53,4 +53,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04e0f282c0944509064bdf6b79d0dcfa/noop.ashx?input=http%3A%2F%2Fwww.mckinsey.com%2F~%2Fmedia%2FMcKinsey%2FBusiness%2520Functions%2FOrganization%2FOur%2520Insights%2FWhy%2520diversity%2520matters%2FDiversity_matters_1536x1536_NEW_Original.ashx" /><h1>Why diversity matters</h1><p>New research makes it increasingly clear that companies with more diverse workforces perform better financially. We know intuitively that diversity matters. It's also increasingly clear that it makes sense in purely business terms. Our latest research finds that companies in the top quartile for gender or racial and ethnic diversity are more likely to have financial returns above their national industry medians.</p></article>
+![New research makes it increasingly clear that companies with more diverse workforces perform better financially. We know intuitively that diversity matters. It's also increasingly clear that it makes sense in purely business terms. Our latest research finds that companies in the top quartile for gender or racial and ethnic diversity are more likely to have financial returns above their national industry medians.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc6db885-dcc0-4b28-9c4d-53e8dc6099e1.png)
