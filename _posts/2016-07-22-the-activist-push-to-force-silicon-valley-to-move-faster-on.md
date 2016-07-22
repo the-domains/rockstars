@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.fastcompany.com'
-  name: Fast Company
-  favicon: 'http://www.fastcompany.com/favicon.ico'
-  domain: www.fastcompany.com
+datePublished: '2016-07-22T10:38:19.949Z'
+sourcePath: >-
+  _posts/2016-07-22-the-activist-push-to-force-silicon-valley-to-move-faster-on.md
+isBasedOnUrl: >-
+  http://www.fastcompany.com/3062022/the-grassroots-efforts-to-force-the-valley-to-become-more-diverse?utm_source=mailchimp&utm_medium=email&utm_campaign=colead-daily-newsletter&position=2&partner=newsletter&campaign_date=07222016
 keywords:
   - trans
   - ziegler
@@ -17,22 +15,24 @@ keywords:
   - entrepreneurs
   - diverse
   - connect
+related: []
+author: []
+via: {}
+dateModified: '2016-07-22T10:38:18.966Z'
+title: The Activist Push To Force Silicon Valley To Move Faster On Diversity
+app_links: []
+publisher:
+  url: 'http://www.fastcompany.com'
+  name: Fast Company
+  favicon: 'http://www.fastcompany.com/favicon.ico'
+  domain: www.fastcompany.com
 description: >-
   Silicon Valley is a world of mirrors and myths. Every company has a creation
   story; most have an eccentric leader; some have had entire books written about
   them. The most pervasive myth out there, however, is technology's egalitarian
   ethos.
 inLanguage: en
-app_links: []
-isBasedOnUrl: >-
-  http://www.fastcompany.com/3062022/the-grassroots-efforts-to-force-the-valley-to-become-more-diverse?utm_source=mailchimp&utm_medium=email&utm_campaign=colead-daily-newsletter&position=2&partner=newsletter&campaign_date=07222016
-title: The Activist Push To Force Silicon Valley To Move Faster On Diversity
-datePublished: '2016-07-22T09:47:38.516Z'
-dateModified: '2016-07-22T09:47:14.812Z'
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-activist-push-to-force-silicon-valley-to-move-faster-on.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Activist Push To Force Silicon Valley To Move Faster On Diversity</h1><p>Silicon Valley is a world of mirrors and myths. Every company has a creation story; most have an eccentric leader; some have had entire books written about them. The most pervasive myth out there, however, is technology's egalitarian ethos.</p><img src="http://a.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2016/07/3062022-inline-i-trans-h4ck.jpg" /></article>
+![Silicon Valley is a world of mirrors and myths. Every company has a creation story; most have an eccentric leader; some have had entire books written about them. The most pervasive myth out there, however, is technology's egalitarian ethos.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bab20b8-f5f3-4855-86a0-69480e147627.jpg)
