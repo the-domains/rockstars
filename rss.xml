@@ -4,7 +4,7 @@
         <description><![CDATA[Rockstars]]></description>
         <link>https://thegrid.ai/rockstars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 10:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 10:33:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rockstars/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Future of Jobs.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4de26f9-d2c3-4caa-a027-eb707f5f2cbf.png</link>
             <guid isPermaLink="false">77b24fb4-f8d5-47e3-878b-702daa18299d</guid>
             <pubDate>Fri, 22 Jul 2016 09:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I, Robot: Organizational Design, Artificial Intelligence and Your Workplace]]></title>
+            <description><![CDATA[<article><h1>I, Robot: Organizational Design, Artificial Intelligence and Your Workplace</h1><p>In a recent blog, we wrote about the emerging trend to "virtual", for teams, workplaces, and entire organizations. In today's blog, we go further, look forward, and explore another driver of change in tomorrow's workplace - the increasing adoption of robotic and artificially intelligent systems and applications, and the implications of this trend for organizational design and the role of HR.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07680084-c16e-4ef7-973f-a2387d324241.png"></article>]]></description>
+            <link>http://blog.organimi.com/organizational-design-artificial-intelligence-and-your-workplace</link>
+            <guid isPermaLink="false">7863ed67-9781-4d81-af7f-446bc478bc1d</guid>
+            <pubDate>Fri, 22 Jul 2016 10:33:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.fastcompany.com/3061925/lessons-learned/what-ive-learned-by-hiring-more-employees-with-disabilities</link>
             <guid isPermaLink="false">150449fd-1774-4b2c-bcd3-96c77ca98bdb</guid>
             <pubDate>Fri, 22 Jul 2016 08:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Diversity And Inclusion Will Be A Top Priority For 2016]]></title>
-            <description><![CDATA[<article><h1>Why Diversity And Inclusion Will Be A Top Priority For 2016</h1><p>New research explains why diversity and inclusion will become a top business priority in 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c1dadbd6d901f5523ab4eb9d37f47ef8/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2FAAEAAQAAAAAAAAXoAAAAJDU1ZTViNTM2LTU5Y2QtNDYyNS04ZGZlLTdiMWU2NjljZWFmNA.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/joshbersin/2015/12/06/why-diversity-and-inclusion-will-be-a-top-priority-for-2016/#4dbdd14a4bd4</link>
-            <guid isPermaLink="false">d6e991a0-fed4-4f12-9a84-e71a05cf959c</guid>
-            <pubDate>Fri, 22 Jul 2016 08:21:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
