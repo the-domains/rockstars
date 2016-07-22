@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T10:04:15.715Z'
+datePublished: '2016-07-22T10:06:07.212Z'
 sourcePath: _posts/2016-07-22-what-is-leadership.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=pYKH2uSax8U'
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://www.youtube.com/channel/UCM6PvFiH_weNCMCnFynTNdg'
     avatar: {}
 via: {}
-dateModified: '2016-07-22T10:04:14.768Z'
+dateModified: '2016-07-22T10:06:06.091Z'
 title: Returning authority to people
 app_links: []
 publisher:
@@ -18,8 +18,9 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 description: >-
-  Giving people control is the best way to lead. Setting an environment where
-  they can think for themselves, you are backing their every decision. 
+  Giving people control is the best way to lead. Empower people to make
+  decisions and better decisions will be made. As  a leader make decisions with
+  people, not for them.
 starred: false
 inFeed: true
 hasPage: false
