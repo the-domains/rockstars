@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T09:32:13.800Z'
+datePublished: '2016-07-22T09:33:33.016Z'
 sourcePath: _posts/2016-07-22-why-diversity-matters.md
 isBasedOnUrl: >-
   http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters
@@ -29,7 +29,7 @@ related:
     thumbnail_width: 1200
 author: []
 via: {}
-dateModified: '2016-07-22T09:32:12.733Z'
+dateModified: '2016-07-22T09:33:32.038Z'
 title: Why diversity matters
 app_links: []
 publisher:
