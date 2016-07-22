@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T10:43:25.877Z'
+datePublished: '2016-07-22T10:43:52.593Z'
 sourcePath: >-
   _posts/2016-07-22-companies-with-more-women-board-directors-experience-higher.md
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-22T10:43:24.728Z'
+dateModified: '2016-07-22T10:43:27.264Z'
 title: >-
   Companies With More Women Board Directors Experience Higher Financial
   Performance, According to Latest Catalyst Bottom Line Report
@@ -43,4 +43,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Companies With More Women Board Directors Experience Higher Financial Performance, According to Latest Catalyst Bottom Line Report</h1><p>Fortune 500 companies with the highest representation of women board directors attained significantly higher financial performance, on average, than those with the lowest representation of women board directors, according to Catalyst's most recent report, The Bottom Line: Corporate Performance and Women's Representation on Boards.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/942c86d0-9832-44c5-a9ad-f64803db4bea.jpg)
