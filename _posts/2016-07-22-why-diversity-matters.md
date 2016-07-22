@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T09:33:33.016Z'
+datePublished: '2016-07-22T09:34:52.320Z'
 sourcePath: _posts/2016-07-22-why-diversity-matters.md
 isBasedOnUrl: >-
   http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters
@@ -29,7 +29,7 @@ related:
     thumbnail_width: 1200
 author: []
 via: {}
-dateModified: '2016-07-22T09:33:32.038Z'
+dateModified: '2016-07-22T09:33:36.556Z'
 title: Why diversity matters
 app_links: []
 publisher:
@@ -53,4 +53,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![New research makes it increasingly clear that companies with more diverse workforces perform better financially. We know intuitively that diversity matters. It's also increasingly clear that it makes sense in purely business terms. Our latest research finds that companies in the top quartile for gender or racial and ethnic diversity are more likely to have financial returns above their national industry medians.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc6db885-dcc0-4b28-9c4d-53e8dc6099e1.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb4c28f9-46da-401a-afbf-4cbf342879ba.jpg)
