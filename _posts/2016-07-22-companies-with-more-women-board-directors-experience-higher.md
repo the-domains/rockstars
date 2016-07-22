@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T10:35:18.535Z'
+datePublished: '2016-07-22T10:43:25.877Z'
 sourcePath: >-
   _posts/2016-07-22-companies-with-more-women-board-directors-experience-higher.md
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-22T10:35:17.419Z'
+dateModified: '2016-07-22T10:43:24.728Z'
 title: >-
   Companies With More Women Board Directors Experience Higher Financial
   Performance, According to Latest Catalyst Bottom Line Report
